@@ -68,4 +68,5 @@ dependencies {
     debugImplementation("androidx.compose.ui:ui-test-manifest")
 
     implementation(project(":otp-view"))
+//    implementation("com.github.OmarAinnova:OtpView:0.0.0")
 }
