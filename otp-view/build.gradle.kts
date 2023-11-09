@@ -59,6 +59,10 @@ publishing {
                 from(components["release"])
             }
         }
+
+        repositories {
+            mavenLocal()
+        }
     }
 }
 
