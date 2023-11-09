@@ -60,9 +60,9 @@ publishing {
             }
         }
 
-        repositories {
-            mavenLocal()
-        }
+//        repositories {
+//            mavenLocal()
+//        }
     }
 }
 
